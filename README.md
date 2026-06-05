@@ -12,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 style="text-align: center;">You've been here before.</h1>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <p>You've been here before.</p>
+</div>
